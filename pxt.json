@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-calliope-modem": "github:calliope-mini/pxt-calliope-modem#v1.0.2"
     },
     "files": [
         "README.md",
@@ -13,6 +14,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
