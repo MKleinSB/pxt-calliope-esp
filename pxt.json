@@ -1,11 +1,11 @@
 {
     "name": "pxt-calliope-esp",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
        "core": "*",
        "radio": "*",
-       "pxt-calliope-modem": "github:calliope-mini/pxt-calliope-modem#v1.0.2"
+       "pxt-calliope-modem": "github:MKleinSB/pxt-calliope-modem#v1.0.5"
     },
     "files": [
        "README.md",
