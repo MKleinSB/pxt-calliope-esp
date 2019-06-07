@@ -1,6 +1,6 @@
 {
     "name": "pxt-calliope-esp",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,10 +9,12 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/de/pxt-calliope-esp-jsdoc-strings.json",
+        "_locales/de/pxt-calliope-esp-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": true
 }
