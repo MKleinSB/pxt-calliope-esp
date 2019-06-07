@@ -3,15 +3,15 @@
     "version": "0.0.2",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "pxt-calliope-modem": "github:calliope-mini/pxt-calliope-modem#v1.0.2"
+       "core": "*",
+       "radio": "*",
+       "pxt-calliope-modem": "github:calliope-mini/pxt-calliope-modem#v1.0.2"
     },
     "files": [
-        "README.md",
-        "main.ts",
-        "_locales/de/pxt-calliope-esp-jsdoc-strings.json",
-        "_locales/de/pxt-calliope-esp-strings.json"
+       "README.md",
+       "main.ts",
+       "_locales/de/pxt-calliope-esp-jsdoc-strings.json",
+       "_locales/de/pxt-calliope-esp-strings.json"
     ],
     "testFiles": [
         "test.ts"
