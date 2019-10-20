@@ -17,7 +17,7 @@ with PXT for Micro:bit.
 
 ## Wiring the module
 
-![Calliope mini -> ESP8266 wiring](wiring.png)
+![Calliope mini -> ESP8266 wiring](https://github.com/calliope-mini/pxt-calliope-esp/blob/master/wiring.png)
 
 ## Testing
 
@@ -68,7 +68,7 @@ while(true); do nc -l -p 9090; sleep 1; done
 ## Example
 
 ### Blocks
-![Example Code](example.png)
+![Example Code](https://github.com/calliope-mini/pxt-calliope-esp/blob/master/example.png)
 
 ### Javascript
 
